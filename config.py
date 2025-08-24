@@ -63,12 +63,12 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ShrutiBots")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ShrutiBotSupport")
-INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/yaduwanshi_nand")
-YOUTUBE = os.getenv("YOUTUBE", "https://youtube.com/@NandEditz")
-GITHUB = os.getenv("GITHUB", "https://github.com/NoxxOP")
-DONATE = os.getenv("DONATE", "https://t.me/ShrutiBots/91")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/rockhushh)
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/rocky_27x")
+INSTAGRAM = os.getenv("INSTAGRAM", "https://t.me/rocky_27x")
+YOUTUBE = os.getenv("YOUTUBE", "https://t.me/rockhushh")
+GITHUB = os.getenv("GITHUB", "https://t.me/rockhushh")
+DONATE = os.getenv("DONATE", "https://t.me/rocky_27x")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
