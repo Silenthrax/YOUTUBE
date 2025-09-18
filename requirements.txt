@@ -27,7 +27,7 @@ tgcrypto
 telegraph 
 unidecode
 uvloop
-yt-dlp>=2025.9.5
+yt-dlp
 youtube-search
 youtube-search-python
 # ===========================================
@@ -35,5 +35,6 @@ youtube-search-python
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
 # 📢 Telegram Channel : https://t.me/ShrutiBots
 # ===========================================
+
 
 
